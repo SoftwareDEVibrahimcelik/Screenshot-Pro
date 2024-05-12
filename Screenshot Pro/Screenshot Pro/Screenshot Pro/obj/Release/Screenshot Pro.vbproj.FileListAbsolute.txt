@@ -1,0 +1,16 @@
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\obj\Release\Screenshot Pro.vbproj.AssemblyReference.cache
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\obj\Release\Screenshot_Pro.Resources.resources
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\obj\Release\Screenshot Pro.vbproj.GenerateResource.cache
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\obj\Release\Screenshot Pro.vbproj.CoreCompileInputs.cache
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\obj\Release\Screenshot_Pro.developer_ibrahim_celik53.resources
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\bin\Release\Screenshot Pro.exe.config
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\bin\Release\Screenshot Pro.exe
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\bin\Release\Screenshot Pro.pdb
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\bin\Release\Screenshot Pro.xml
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\bin\Release\Guna.UI2.dll
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\obj\Release\Screenshot Pro.vbproj.CopyComplete
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\obj\Release\Screenshot Pro.exe
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\obj\Release\Screenshot Pro.xml
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\obj\Release\Screenshot Pro.pdb
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\obj\Release\Screenshot_Pro.Screenshot_Pro.resources
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\obj\Release\Screenshot Pro.vbprojResolveAssemblyReference.cache

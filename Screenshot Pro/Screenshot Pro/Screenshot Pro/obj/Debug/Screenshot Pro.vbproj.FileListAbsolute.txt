@@ -1,0 +1,16 @@
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\bin\Debug\Screenshot Pro.exe.config
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\obj\Debug\Screenshot_Pro.developer_ibrahim_celik53.resources
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\obj\Debug\Screenshot_Pro.Resources.resources
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\obj\Debug\Screenshot Pro.vbproj.GenerateResource.Cache
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\obj\Debug\Screenshot_Pro.Screenshot_Pro.resources
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\bin\Debug\Screenshot Pro.exe
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\bin\Debug\Screenshot Pro.pdb
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\bin\Debug\Screenshot Pro.xml
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\bin\Debug\Guna.UI2.dll
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\bin\Debug\Steamworks.NET.dll
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\obj\Debug\Screenshot Pro.vbproj.AssemblyReference.cache
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\obj\Debug\Screenshot Pro.vbproj.CoreCompileInputs.cache
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\obj\Debug\Screenshot Pro.vbproj.CopyComplete
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\obj\Debug\Screenshot Pro.exe
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\obj\Debug\Screenshot Pro.xml
+C:\Users\Resul Çelik\source\repos\Screenshot Pro\Screenshot Pro\obj\Debug\Screenshot Pro.pdb
